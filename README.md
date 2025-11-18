@@ -25,13 +25,7 @@ O sistema é composto por dois módulos principais:
 
 ## 🧩 Arquitetura do Sistema
 
-```
-[ Raspberry Pi ]                        [ PC/Linux com Qt ]
----------------------------------------------------------------
-  ELM327 BLE  <---BLE--->  ble_stream.c   ---> WebSocket --->  dashboard (Qt)
----------------------------------------------------------------
-                 JSON                             UI
-```
+![Texto alternativo](imagens/arquitetura.png)
 
 ## 📦 Arquivos do Projeto
 
@@ -122,5 +116,6 @@ ws://localhost:9090
 ## 👨‍🏫 Autores
 
 **Thalis Cezar Ianzer** e **Jordano do Santos**
+
 Engenharia Eletrônica — Universidade de Brasília (UnB)
 Disciplina: *Sistemas Operacionais Embarcados*
