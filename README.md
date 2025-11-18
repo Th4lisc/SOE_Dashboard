@@ -25,7 +25,7 @@ O sistema é composto por dois módulos principais:
 
 ## 🧩 Arquitetura do Sistema
 
-![Texto alternativo](imagens/arquitetura.png)
+![](arquitetura.png)
 
 ## 📦 Arquivos do Projeto
 
